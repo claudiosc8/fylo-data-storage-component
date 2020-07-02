@@ -30,11 +30,11 @@ function App() {
       <div className='section three-fifth'>
         <div className='content'>
           <div id='space-left'><span>{usage.max - usage.used}</span> GB left</div>
-          <span className='description'>You've used <strong>{usage.used} GB</strong> of your storage</span>
+          <span className='description'>You've used <strong>{usage.used + ' GB'}</strong> of your storage</span>
           <div className='progress-bar-outer'>
-            <div className='progress-bar-inner' style={{width:(usage.used * 100 / 1000) - 10 +'%'}}></div>
+            <div className='progress-bar-inner' style={{width:(usage.used * 100 / 1000) +'%'}}></div>
           </div>
-          <div className='range'><span>{usage.min} GB</span><span>{usage.max} GB</span></div>
+          <div className='range'><span>{usage.min + ' GB'}</span><span>{usage.max + ' GB'}</span></div>
         </div>
       </div>
       </div>
