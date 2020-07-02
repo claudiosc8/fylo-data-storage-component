@@ -23,7 +23,7 @@ function App() {
           <div id='buttons'>
             <div className='button'><img src={IconDocument} alt='Documents' /></div>
             <div className='button'><img src={IconFolder} alt='Documents' /></div>
-            <label htmlFor='upload'><div className='button'><img src={IconUpload} alt='Documents' /></div></label><input type='file' id='upload' />
+            <label htmlFor='upload' className='button'><img src={IconUpload} alt='Documents' /></label><input type='file' id='upload' />
           </div>
         </div>
       </div>
