@@ -1,6 +1,6 @@
 # Frontend Mentor - Fylo data storage component
 
-Deployed app [here](https://fylo-data-storage-component-smoky.vercel.app)
+**Check the deployed app [here](https://fylo-data-storage-component-smoky.vercel.app)**
 
 ![Design preview for the Fylo data storage component coding challenge](./design/desktop-preview.jpg)
 
