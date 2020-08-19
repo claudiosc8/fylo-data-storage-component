@@ -2,6 +2,8 @@
 
 **Check the deployed app [here](https://fylo-data-storage-component-smoky.vercel.app)**
 
+**Check the report on Frontend Mentor [here](https://www.frontendmentor.io/solutions/fylo-data-storage-component-using-react-wBHUxM7Th)**
+
 ![Design preview for the Fylo data storage component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
